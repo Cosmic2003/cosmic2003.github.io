@@ -13,7 +13,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(Images/BackGround2.png);
+    background-image: url(https://raw.githubusercontent.com/Cosmic2003/cosmic2003.github.io/main/Images/BackGround2.png);
     background-size: cover;
     background-position: center;
 }
